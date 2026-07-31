@@ -20,5 +20,5 @@ Creación y gestión de entornos virtuales de Python y el desarrollo de una apli
 - Streamlit
 
 ## Ejecutar la aplicación
-
+https://proyecto-sprint-7-tripleten-0plp.onrender.com/
 streamlit run app.py
